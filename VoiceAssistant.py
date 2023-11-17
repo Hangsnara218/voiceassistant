@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 import openai
 #OPENAI_KEY = os.getenv('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')
-openai.api_key = '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'
+openai.api_key = 'sk-*****'
 
 #openai.api_key = OPENAI_KEY
 
